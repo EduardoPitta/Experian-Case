@@ -1,15 +1,3 @@
----
-jupyter:
-  jupytext:
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.11.4
-  kernelspec:
-    display_name: Python 3.9.0 64-bit
-    name: python390jvsc74a57bd06e6cd1a37ae743b95addcaf84b2b82dd57fbb64481c9e7c7a479f657aeb68d7c
----
 
 # Detecção de Fraude de Cartão de Crédito
  ### _Detecção de fraude em cartão de crédito_
